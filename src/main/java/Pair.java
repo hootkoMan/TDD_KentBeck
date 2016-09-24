@@ -1,5 +1,3 @@
-import java.util.Objects;
-
 class Pair {
     private String from;
     private String to;
